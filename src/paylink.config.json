@@ -2,17 +2,17 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Manuel Ernesto",
+    "description": "Sofware Developr",
+    "alt": "Photo of Manuel Ernesto",
+    "hero": "./images/profile.jpg"
   },
 
   "Social": [
-    { "label": "Link", "type": "link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "GitHub", "type": "github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "type": "linkedin", "link": "https://linkedin.com/in/dlcastillop" },
+    { "label": "Link", "type": "link", "link": "" },
+    { "label": "GitHub", "type": "github", "link": "" },
+    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/manuelernestog" },
+    { "label": "LinkedIn", "type": "linkedin", "link": "https://linkedin.com/in/manueler" },
     { "label": "Instagram", "type": "instagram", "link": "https://instagram.com/dlcastillop" },
     { "label": "Discord", "type": "discord", "link": "" },
     { "label": "Facebook", "type": "facebook", "link": "" },
@@ -30,15 +30,27 @@
 
   "Payments": [
     {
-      "id": "btc",
+      "id": "asd",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "ksjdhaksjdhaksjdhskdjhsdk",
       "img": "./images/payments/btc.svg"
+    },
+    {
+      "id": "tarjetapago",
+      "label": "Tarjeta de Banco",
+      "value": "1000 1565 898 15",
+      "img": "https://i.ibb.co/TgDc2Np/card.png"
+    },
+        {
+      "id": "tarjetapago",
+      "label": "Tarjeta de Banco",
+      "value": "1000 1565 898 15",
+      "img": "https://i.ibb.co/TgDc2Np/card.png"
     },
     {
       "id": "busd",
       "label": "BinanceUSD",
-      "value": "",
+      "value": "asdas dad ",
       "img": "./images/payments/busd.svg"
     },
     {
