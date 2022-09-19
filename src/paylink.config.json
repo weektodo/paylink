@@ -1,5 +1,5 @@
 {
-  "theme": "minimalist-dark-theme",
+  "theme": "minimalist-theme",
 
   "properties": {
     "name": "Manuel Ernesto",
@@ -15,7 +15,7 @@
     { "label": "LinkedIn", "type": "linkedin", "link": "https://linkedin.com/in/manueler" },
     { "label": "Instagram", "type": "instagram", "link": "https://instagram.com/dlcastillop" },
     { "label": "Discord", "type": "discord", "link": "" },
-    { "label": "Facebook", "type": "facebook", "link": "" },
+    { "label": "Facebook", "type": "facebook", "link": "https://instagram.com/manuel" },
     { "label": "Medium", "type": "medium", "link": "" },
     { "label": "Pinterest", "type": "pinterest", "link": "" },
     { "label": "Snapchat", "type": "snapchat", "link": "" },
